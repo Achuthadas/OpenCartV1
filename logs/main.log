@@ -1,0 +1,392 @@
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\local_acsivankutty\Temp\5\testng-eclipse-1292503191\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+**Error occured**
+[TestNG] Time taken by org.testng.reporters.jq.Main@4096aa05: 148 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@31ff6309: 37 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@3681037: 12 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@151ef57f: 9 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3b9632d1: 19 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@4e6f2bb5: 0 ms
+suiteXmlPath: "C:\Users\LOCAL_~1\Temp\5\testng-eclipse-1837535851\testng-customsuite.xml"
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[TestNG] Running:
+  C:\Users\local_acsivankutty\Temp\5\testng-eclipse-1837535851\testng-customsuite.xml
+
+[Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+**Error occured**
+debugging logs
+[TestNG] Time taken by org.testng.reporters.jq.Main@4096aa05: 168 ms
+[TestNG] Time taken by org.testng.reporters.FailedReporter@31ff6309: 37 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@3681037: 12 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@151ef57f: 10 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3b9632d1: 19 ms
+[TestNG] Time taken by org.testng.internal.ExitCodeListener@4e6f2bb5: 0 ms
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\testng.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\testng.xml
+
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\master.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\master.xml
+
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\master.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\master.xml
+
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\crossbrowser.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\crossbrowser.xml
+
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\crossbrowser.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\crossbrowser.xml
+
+***started execution***
+***clicked on Account***
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***clicked on Register***
+***Account info providing***
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+***execution completed***
+***execution completed***
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\master.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\master.xml
+
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\master.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\master.xml
+
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\master.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\master.xml
+
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\master.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\master.xml
+
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\master.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\master.xml
+
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\master.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\master.xml
+
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml
+
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml
+
+-----Started TC002 Execution---
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml
+
+-----Started TC002 Execution---
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml
+
+-----Started TC002 Execution---
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml
+
+-----Started TC002 Execution---
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml
+
+-----Started TC002 Execution---
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml
+
+-----Started TC002 Execution---
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml
+
+-----Started TC002 Execution---
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml
+
+-----Started TC002 Execution---
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml
+
+-----Started TC002 Execution---
+suiteXmlPath: "H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml"
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml
+
+-----Started TC002 Execution---
+----TC002----completed
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml
+
+-----Started TC002 Execution---
+----TC002----completed
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml
+
+----tc003 execution started---
+---tc003 completed----
+----tc003 execution started---
+----tc003 execution started---
+----tc003 execution started---
+---tc003 completed----
+----tc003 execution started---
+---tc003 completed----
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml
+
+----tc003 execution started---
+----tc003 execution started---
+----tc003 execution started---
+----tc003 execution started---
+---tc003 completed----
+----tc003 execution started---
+---tc003 completed----
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\mastertestng.xml
+
+----tc003 execution started---
+----tc003 execution started---
+---tc003 completed----
+----tc003 execution started---
+----tc003 execution started---
+---tc003 completed----
+----tc003 execution started---
+---tc003 completed----
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\grouping.xml
+
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\grouping.xml
+
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\grouping.xml
+
+-----Started TC002 Execution---
+----TC002----completed
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\grouping.xml
+
+----tc003 execution started---
+----tc003 execution started---
+---tc003 completed----
+----tc003 execution started---
+----tc003 execution started---
+---tc003 completed----
+----tc003 execution started---
+---tc003 completed----
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+-----Started TC002 Execution---
+----TC002----completed
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\grouping.xml
+
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+-----Started TC002 Execution---
+----TC002----completed
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\grouping.xml
+
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+-----Started TC002 Execution---
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\test-output\testng-failed.xml
+
+-----Started TC002 Execution---
+----TC002----completed
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\test-output\testng-failed.xml
+
+-----Started TC002 Execution---
+----TC002----completed
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\grouping.xml
+
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+-----Started TC002 Execution---
+----TC002----completed
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\grouping.xml
+
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\grouping.xml
+
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\grouping.xml
+
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\grouping.xml
+
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+-----Started TC002 Execution---
+----TC002----completed
+[TestNG] Running:
+  H:\SeleniumWebDriver\OpenCartV1\grouping.xml
+
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+-----Started TC002 Execution---
+----TC002----completed
+***started execution***
+***clicked on Account***
+***clicked on Register***
+***Account info providing***
+***execution completed***
+-----Started TC002 Execution---
+----TC002----completed
